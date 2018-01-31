@@ -14,7 +14,7 @@ Du coup, op, un gitbook synchro à un github et le tour devrait être joué.
 
 Mais comment allez vous participer ?
 
-C'est assez simple, faites une Pull Request sur le repo github [https://github.com/mrjmad/HistoiresDeRol](https://github.com/mrjmad/HistoiresDeRoll) avec votre histoire. Ensuite je les mergerais et si tout se passe bien, tout devrait bien fonctionner.
+C'est assez simple, faites une Pull Request sur le repo github [https://github.com/mrjmad/HistoiresDeRol](https://github.com/mrjmad/HistoiresDeRoll) avec votre histoire. Je la mergerais dés que possible et si tout se passe bien, tout devrait fonctionner et les histoires gentiment se ranger dans ce gitbook.
 
 Pour les modalités, on va dire que je vais faire un lancé de dés tout les mois. avec différents sets de dés. Pour le reste, vous décidez. Vous utilisez tout les dés ou pas, vous écrivez entre deux lancés de dés ou six mois après ou vous n'écrivez rien et je serais le seul à participer.
 
