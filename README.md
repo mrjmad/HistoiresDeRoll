@@ -20,3 +20,16 @@ Pour les modalités, on va dire que je vais faire un lancé de dés tout les moi
 
 On verra bien !
 
+
+
+#### Modalité concernant la Pull Request dans Github. 
+
+Il y a un répertoire par mois \(par exemple il y a actuellement le répertoire 2018\_fevrier\), je vous propose  : 
+
+* d'ajouter un fichier md contenant votre texte dans ce répertoire là
+* de m'indiquer dans le commentaire de la PR \(ou dans le fichier md lui même\) le nom que vous voulez utiliser en temps que nom de plume
+
+Je m'occuperais après le merge de modifier le fichier de sommaire pour qu'il liste votre texte. \(Ca evitera la gestion des merges de fichier SUMMARY comme cela\).
+
+
+
