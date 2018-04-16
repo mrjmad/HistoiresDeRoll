@@ -14,3 +14,12 @@ _book
 *.epub
 *.mobi
 *.pdf
+/.idea/HistoiresDeRoll.iml
+/.idea/dictionaries/jmad.xml
+/.idea/encodings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/preferred-vcs.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
