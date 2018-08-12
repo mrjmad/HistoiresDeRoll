@@ -12,7 +12,17 @@ J'ai du coup utilisé les sets :
 * sport
 * clues
 
+Pour moi, (peut-être aurez vous une interprétation différente) il y a les dés suivant :
 
+* un maillot de joueur de football
+* un escrimeur
+* un cheval
+* une empreinte digitale
+* une bouteille de poison
+* une tâche d'encre
+* une ambulance
+* une seringue
+* un pansement
 
 
 ![](/assets/des_juin_2018.jpg)
