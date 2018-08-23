@@ -1,7 +1,5 @@
 # L'histoire !
 
-Histoire dés Mai 2018
-
 Il était une fois un petit Crabe. Il vivait sur le bord de la mer méditerranée, sur l’une des plages du département que nous les humains appelons le Var. Pour le petit Crabe, c’était simplement sa plage, son monde, sa maison. Le petit Crabe avait bien entendu un nom, composant de crissement de pinces et de mandibules. Mais nous ne pourrions pas le prononcer, avec notre bouche, notre langue et nos dents d’humain. Mais comme je n’ai pas envie de l’appeler le petit Crabe pour le reste de cette histoire, je l’appellerais donc Albert. Parce que moi, en temps que narrateur humain, j’aime bien le prénom Albert. Et que ce petit crabe me fait penser à un Albert qui se serait réincarner en petit crabe.
 
 Albert vivait donc sur une plage, sur le bord d’une plage pour être plus précis, dans les cailloux qui avaient été rassemblé pour faire une digue. Ses cousins crabes vivaient de l’autre coté de la plage, dans un ensemble de cailloux naturels, eux. Albert enviaient ses cousins parce que leur cailloux a eux été bien plus agréable à vivre, bien plus colorés et plus recouvert de vie marine en tout genre. Alors que ses cailloux a lui et à ses parents étaient grisâtre, triste, recouvert d’une algue terne et un peu puante. (Cette différence était du au fait que ses cousins vivaient dans le début d’une zone maritime protégée alors que le pauvre Albert vivait lui sur une digue ponton où pécheurs du dimanche et zodiac de touriste se disputaient la place).
