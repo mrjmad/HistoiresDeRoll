@@ -15,3 +15,9 @@
 * Juin 2018
   *  [Les dés !](/2018_juin/des.md)
   * [Histoire de MrJmad](/2018_juin/mrjmad/histoire.md)
+* Juillet 2018
+  *  [Les dés !](/2018_juillet/des.md)
+* Aout 2018
+  *  [Les dés !](/2018_aout/des.md)
+* Septembre 2018
+  *  [Les dés !](/2018_septembre/des.md)
