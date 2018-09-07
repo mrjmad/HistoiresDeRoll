@@ -92,3 +92,17 @@ Il savait qu’il aurait du se rendre à la police. Que c’était le mieux, qu�
 Mais il ne pouvait pas. Il ne voulait pas être enfermé.
 
 Et puis, peut-être que lui, cela ne lui arriverait pas.
+
+
+# Les dés utilisés
+
+Les dés que j'ai utilisé :
+
+* la balle de tennis
+* la galaxie
+
+
+# L'inspiration
+
+Dans un TGV de Paris vers Marseille. J'ai regardé la photo des dés quelques secondes et l'idée d'un sportif qui se faisait "augmenté" par une société qui en fait voulait simplement construire une armée de bot pour pouvoir faire un massacre c'est imposé à moi.
+Du coup j'ai choisi le tennis pour utiliser un dés et la galaxie a fait un parfait logo pour cette organisation malfaisante :)
