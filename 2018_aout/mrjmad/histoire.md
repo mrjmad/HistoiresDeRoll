@@ -53,3 +53,17 @@ Jétovi vérifia que la totalité de la vidéo avait bien été enregistré et l
 Il y a ajouta un message : « Nous sommes perdus ».
 
 Et alors qu’il sentait dans son âme l’horreur verte qui montait à toute allure vers lui et la station, il pris le pistolet laser qui se trouvait à sa ceinture, le mis dans sa bouche et tout en pleurant sur le sort de l’humanité, appuya sur la gâchette.
+
+
+# Les dés utilisés
+
+J'ai utilisé pas les dés :
+* le nain
+* les tentacules s'échappant de la porte
+* l'araignée
+
+# L'inspiration
+
+Quand j'ai vu le nain et les tentacules, j'ai tout de suite pensé à la Moira et aux nains de Tolkien qui creusent trop profond et qui libérent des choses qu'il ne faut pas libérer.
+
+Mais je n'avais pas envie de partir sur une histoire d'héroic fantasy classique. Je voulais partir sur une histoire dans l'espace. Le plus difficile fut de trouver un acronyme plausible pour NAIN. et ensuite je me suis pris au jeu en rajoutrant TROLS :)
