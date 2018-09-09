@@ -16,7 +16,7 @@ Il se releva la rage au cœur et reparti vers les vestiaires abattus.
 
 Il avait mal partout assis à son petit box dans l’open space de télé-opérateur où il travaillait.
 
-« Bonjour Madame, je m’appelle Laurent et je voulais vous parler d’assurance …
+« Bonjour Madame, je m’appelle Laurent et je voulais vous parler d’assurance …  
 Une conversation inintéressante de plus, pour essayer de faire acheter à une inconnue une police d’assurance dont elle n’avait pas besoin.
 
 Il en avait marre.
@@ -26,14 +26,16 @@ Il voulait jouer au tennis, uniquement cela. Et devenir le meilleur.
 ----
 
 Les vestiaires, tard, après l’entrainement. Mal partout. En colère. Cela ne c’était pas bien passé
-« Et Laurent ? »
-«  Oui, qu’est ce que tu me veux Alphonse? »
-«  Tiens, tu devrais aller voir la bas »
-«  C’est encore un de tes plans foireux ? »
-« Je ne comprends pas pourquoi tu ne m’aimes pas, alors que je ne veux que t’aider … enfin tu fais comme tu veux, si tu veux gâcher la vie »
+« Et Laurent ? »  
+«  Oui, qu’est ce que tu me veux Alphonse? »  
+«  Tiens, tu devrais aller voir la bas »  
+«  C’est encore un de tes plans foireux ? »  
+« Je ne comprends pas pourquoi tu ne m’aimes pas, alors que je ne veux que t’aider … enfin tu fais comme tu veux, si tu veux gâcher la vie »  
 
-L’homme appelé Alphonse s’éloigna, en sifflotant, comme si la courte conversation n’avait jamais eu lieu.
-Laurent lui tenait la carte de visite qu’il venait recevoir. Sur le verso de la carte violette, une simple silhouette de galaxie spirale. Sur le recto, une adresse en banlieue. Il la rangea et l’oublia.
+L’homme appelé Alphonse s’éloigna, en sifflotant, comme si la courte conversation n’avait jamais eu lieu.  
+Laurent lui tenait la carte de visite qu’il venait recevoir. Sur le verso de la carte violette, une simple silhouette de galaxie spirale. Sur le recto, une adresse en banlieue.  
+Il la rangea et l’oublia.
+
 ----
 « Jeu, set et Match »
 
@@ -50,9 +52,9 @@ Tout était brillant, lumineux , immaculé. Tout ressemblait à une clinique hau
 
 Après avoir attendu quelques minutes, un homme se présentant comme le docteur smith était venu pour lui expliquer les choses.
 
-A BoostSynapse, puisque c’était ainsi que la société s’appelait, on travaillait sur des systèmes permettant aux gens d’utiliser leur plein potentiel, de libérer toutes leur possibilités.
-« Pourquoi les médias n’en parlaient pas ? »
-Parce que pour l’instant la société n’avait obtenu que le droit de faire des tests réduits, sur des volontaires. Bien entendu il n’y avait aucun risque mais il fallait respecter les procédures médicales. Mais de fait, si Laurent acceptait de subir le traitement, il serait payer, 5000 euros pour avoir accepter d’être un cobaye.
+A BoostSynapse, puisque c’était ainsi que la société s’appelait, on travaillait sur des systèmes permettant aux gens d’utiliser leur plein potentiel, de libérer toutes leur possibilités.  
+« Pourquoi les médias n’en parlaient pas ? »  
+Parce que pour l’instant la société n’avait obtenu que le droit de faire des tests réduits, sur des volontaires. Bien entendu il n’y avait aucun risque mais il fallait respecter les procédures médicales. Mais de fait, si Laurent acceptait de subir le traitement, il serait payer, 5000 euros pour avoir accepter d’être un cobaye.  
 Mais par contre, il n’aurait pas le droit d’en parler à quiconque. Pour des raisons d’espionnages industriels. On ne devait pas savoir qu’il avait reçu le traitement.
 
 ----
@@ -61,14 +63,14 @@ D’abord il ressenti rien. Et il se dit que c’était encore une connerie d’
 
 ----
 
-« Jeux, set et Match »
-Il avait gagné. Il avait vraiment gagné. Et pas juste un match. Non carrément un tournois du grand Chelem.
-Il n’en revenait pas. Sa vie était devenu paradisiaque.
-Bien entendu il ne parlait jamais à personne de sa visite à BoostSynapse un an avant.
+« Jeux, set et Match »  
+Il avait gagné. Il avait vraiment gagné. Et pas juste un match. Non carrément un tournois du grand Chelem.  
+Il n’en revenait pas. Sa vie était devenu paradisiaque.  
+Bien entendu il ne parlait jamais à personne de sa visite à BoostSynapse un an avant.  
 
 ----
 
-La Télé, une chaîne d’info en continu.
+La Télé, une chaîne d’info en continu.  
 « Il semblerait que les récents épisodes de folies meurtrières soient dû à une organisation terroriste utilisant comme couverture une société appelée BoostSynapse.
 Sous prétexte de proposer des améliorations aux personnes tombant dans ses filets, la société implantaient dans le cou de ses victimes un système de prise de contrôle à distance de leur corps.   
 
@@ -79,7 +81,7 @@ La police demande aux personnes qui auraient accepté de recevoir le traitement 
 
 ----
 
-Laurent rampa un peu plus loin, se réfugiant un peu plus profondément dans le fond de la canalisation d’égout. Il avait réussi à leur échapper. Cette fois.
+Laurent rampa un peu plus loin, se réfugiant un peu plus profondément dans le fond de la canalisation d’égout. Il avait réussi à leur échapper. Cette fois.  
 Depuis qu’un des cobaye de BoostSynapse avait réussi à faire exploser un barrage hydroélectrique entraînant des milliers de morts, les gens comme lui, les viande-bot comme les appelaient ceux qui les chassaient était pourchassés par tous. La police recherchait toute les personnes qui comme lui étaient plutôt médiocre et qui soudain étaient devenus des stars.
 
 
