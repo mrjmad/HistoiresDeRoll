@@ -24,3 +24,5 @@
 * Septembre 2018
   *  [Les dés !](/2018_septembre/des.md)
   * [Histoire de MrJmad](/2018_septembre/mrjmad/histoire.md)
+* Octobre 2018
+  *  [Les dés !](/2018_octobre/des.md)

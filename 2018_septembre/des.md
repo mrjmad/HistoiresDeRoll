@@ -1,6 +1,6 @@
 # Septemnbre 2018
 
-Voila le lancé du mois d'aout. J'ai utilisé les sets :
+Voila le lancé du mois de septembre. J'ai utilisé les sets :
 
 * intergalactique
 * medic
